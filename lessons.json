@@ -1,0 +1,723 @@
+// 20210612011411
+// https://www.pekigames.com/lessons.json
+
+{
+  "class": 5,
+  "lesson": 3,
+  "title": "Fen Bilimleri",
+  "correct": 48,
+  "wrong": 112,
+  "solved": 160,
+  "success": 30,
+  "earnings": 4,
+  "chartData": [
+    {
+      "type": "Doğru",
+      "value": 48
+    },
+    {
+      "type": "Yanlış",
+      "value": 112
+    }
+  ],
+  "taxonomy": [
+    {
+      "type": 1,
+      "title": "Bilgi",
+      "correct": 16,
+      "wrong": 10,
+      "solved": 26,
+      "success": 62
+    },
+    {
+      "type": 2,
+      "title": "Kavram",
+      "correct": 22,
+      "wrong": 44,
+      "solved": 66,
+      "success": 33
+    },
+    {
+      "type": 3,
+      "title": "Sentez",
+      "correct": 10,
+      "wrong": 50,
+      "solved": 60,
+      "success": 17
+    },
+    {
+      "type": 4,
+      "title": "Analiz",
+      "correct": 2,
+      "wrong": 8,
+      "solved": 10,
+      "success": 20
+    }
+  ],
+  "content": [
+    {
+      "lesson_cat_id": 1,
+      "lesson_cat_title": "Güneş, Dünya ve Ay",
+      "lesson_start_date": "13 Ağustos 2020",
+      "lesson_correct": 18,
+      "lesson_wrong": 8,
+      "lesson_solved": 26,
+      "lesson_success": 69,
+      "lesson_earnings": 7,
+      "lesson_sub": [
+        {
+          "lesson_sub_cat_id": 8,
+          "lesson_cat_title": "Güneş'in Yapısı ve Özellikleri",
+          "lesson_correct": 4,
+          "lesson_wrong": 2,
+          "lesson_solved": 6,
+          "lesson_success": 67,
+          "lesson_earnings": 6,
+          "lessons": [
+            {
+              "lesson_id": 1,
+              "lesson_title": "Güneş’in özelliklerini açıklar.",
+              "lesson_learning_question": 31,
+              "lesson_correct": 0,
+              "lesson_wrong": 2,
+              "lesson_solved": 2,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            },
+            {
+              "lesson_id": 2,
+              "lesson_title": "Güneş’in büyüklüğünü Dünya’nın büyüklüğüyle karşılaştıracak şekilde model hazırlar.",
+              "lesson_learning_question": 31,
+              "lesson_correct": 4,
+              "lesson_wrong": 0,
+              "lesson_solved": 4,
+              "lesson_success": 100,
+              "lesson_earnings": 13
+            }
+          ]
+        },
+        {
+          "lesson_sub_cat_id": 9,
+          "lesson_cat_title": "Ay’ın Yapısı ve Özellikleri",
+          "lesson_correct": 2,
+          "lesson_wrong": 2,
+          "lesson_solved": 4,
+          "lesson_success": 50,
+          "lesson_earnings": 5,
+          "lessons": [
+            {
+              "lesson_id": 3,
+              "lesson_title": "Ay’ın özelliklerini açıklar.",
+              "lesson_learning_question": 20,
+              "lesson_correct": 2,
+              "lesson_wrong": 2,
+              "lesson_solved": 4,
+              "lesson_success": 50,
+              "lesson_earnings": 10
+            },
+            {
+              "lesson_id": 4,
+              "lesson_title": "Ay’da canlıların yaşayabileceğine yönelik ürettiği fikirleri tartışır.",
+              "lesson_learning_question": 20,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            }
+          ]
+        },
+        {
+          "lesson_sub_cat_id": 10,
+          "lesson_cat_title": "Ay’ın Hareketleri ve Evreleri",
+          "lesson_correct": 10,
+          "lesson_wrong": 4,
+          "lesson_solved": 14,
+          "lesson_success": 71,
+          "lesson_earnings": 12,
+          "lessons": [
+            {
+              "lesson_id": 5,
+              "lesson_title": "Ay’ın dönme ve dolanma hareketlerini açıklar.",
+              "lesson_learning_question": 41,
+              "lesson_correct": 2,
+              "lesson_wrong": 0,
+              "lesson_solved": 2,
+              "lesson_success": 100,
+              "lesson_earnings": 5
+            },
+            {
+              "lesson_id": 6,
+              "lesson_title": "Ay’ın evreleri ile Ay’ın Dünya etrafındaki dolanma hareketi arasındaki ilişkiyi açıklar.",
+              "lesson_learning_question": 41,
+              "lesson_correct": 8,
+              "lesson_wrong": 4,
+              "lesson_solved": 12,
+              "lesson_success": 67,
+              "lesson_earnings": 20
+            }
+          ]
+        },
+        {
+          "lesson_sub_cat_id": 11,
+          "lesson_cat_title": "Güneş, Dünya ve Ay",
+          "lesson_correct": 2,
+          "lesson_wrong": 0,
+          "lesson_solved": 2,
+          "lesson_success": 100,
+          "lesson_earnings": 3,
+          "lessons": [
+            {
+              "lesson_id": 7,
+              "lesson_title": "Güneş, Dünya ve Ay’ın birbirlerine göre hareketlerini temsil eden bir model hazırlar.",
+              "lesson_learning_question": 62,
+              "lesson_correct": 2,
+              "lesson_wrong": 0,
+              "lesson_solved": 2,
+              "lesson_success": 100,
+              "lesson_earnings": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_cat_id": 2,
+      "lesson_cat_title": "Canlılar Dünyası",
+      "lesson_start_date": "13 Ağustos 2020",
+      "lesson_correct": 18,
+      "lesson_wrong": 38,
+      "lesson_solved": 56,
+      "lesson_success": 32,
+      "lesson_earnings": 14,
+      "lesson_sub": [
+        {
+          "lesson_sub_cat_id": 12,
+          "lesson_cat_title": "Canlıları Tanıyalım",
+          "lesson_correct": 18,
+          "lesson_wrong": 38,
+          "lesson_solved": 56,
+          "lesson_success": 32,
+          "lesson_earnings": 14,
+          "lessons": [
+            {
+              "lesson_id": 8,
+              "lesson_title": "Canlılara örnekler vererek benzerlik ve farklılıklarına göre sınıflandırır.",
+              "lesson_learning_question": 126,
+              "lesson_correct": 18,
+              "lesson_wrong": 38,
+              "lesson_solved": 56,
+              "lesson_success": 32,
+              "lesson_earnings": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_cat_id": 3,
+      "lesson_cat_title": "Kuvvetin Ölçülmesi ve Sürtünme",
+      "lesson_start_date": "13 Ağustos 2020",
+      "lesson_correct": 0,
+      "lesson_wrong": 22,
+      "lesson_solved": 22,
+      "lesson_success": 0,
+      "lesson_earnings": 0,
+      "lesson_sub": [
+        {
+          "lesson_sub_cat_id": 13,
+          "lesson_cat_title": "Kuvvetin Ölçülmesi",
+          "lesson_correct": 0,
+          "lesson_wrong": 6,
+          "lesson_solved": 6,
+          "lesson_success": 0,
+          "lesson_earnings": 0,
+          "lessons": [
+            {
+              "lesson_id": 9,
+              "lesson_title": "Kuvvetin büyüklüğünü dinamometre ile ölçer.",
+              "lesson_learning_question": 34,
+              "lesson_correct": 0,
+              "lesson_wrong": 6,
+              "lesson_solved": 6,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            },
+            {
+              "lesson_id": 10,
+              "lesson_title": "Basit araç gereçler kullanarak bir dinamometre modeli tasarlar.",
+              "lesson_learning_question": 34,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            }
+          ]
+        },
+        {
+          "lesson_sub_cat_id": 14,
+          "lesson_cat_title": "Sürtünme Kuvveti",
+          "lesson_correct": 0,
+          "lesson_wrong": 16,
+          "lesson_solved": 16,
+          "lesson_success": 0,
+          "lesson_earnings": 0,
+          "lessons": [
+            {
+              "lesson_id": 11,
+              "lesson_title": "Sürtünme kuvvetine günlük yaşamdan örnekler verir.",
+              "lesson_learning_question": 23,
+              "lesson_correct": 0,
+              "lesson_wrong": 4,
+              "lesson_solved": 4,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            },
+            {
+              "lesson_id": 12,
+              "lesson_title": "Sürtünme kuvvetinin çeşitli ortamlarda harekete etkisini deneyerek keşfeder.",
+              "lesson_learning_question": 23,
+              "lesson_correct": 0,
+              "lesson_wrong": 8,
+              "lesson_solved": 8,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            },
+            {
+              "lesson_id": 13,
+              "lesson_title": "Günlük yaşamda sürtünmeyi artırma veya azaltmaya yönelik yeni fikirler üretir.",
+              "lesson_learning_question": 23,
+              "lesson_correct": 0,
+              "lesson_wrong": 4,
+              "lesson_solved": 4,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_cat_id": 4,
+      "lesson_cat_title": "Madde ve Değişim",
+      "lesson_start_date": "13 Ağustos 2020",
+      "lesson_correct": 8,
+      "lesson_wrong": 34,
+      "lesson_solved": 42,
+      "lesson_success": 19,
+      "lesson_earnings": 3,
+      "lesson_sub": [
+        {
+          "lesson_sub_cat_id": 15,
+          "lesson_cat_title": "Maddenin Hal Değişimi",
+          "lesson_correct": 4,
+          "lesson_wrong": 16,
+          "lesson_solved": 20,
+          "lesson_success": 20,
+          "lesson_earnings": 6,
+          "lessons": [
+            {
+              "lesson_id": 14,
+              "lesson_title": "Maddelerin ısı etkisiyle hâl değiştirebileceğine yönelik yaptığı deneylerden elde ettiği verilere dayalı çıkarımlarda bulunur.",
+              "lesson_learning_question": 63,
+              "lesson_correct": 4,
+              "lesson_wrong": 16,
+              "lesson_solved": 20,
+              "lesson_success": 20,
+              "lesson_earnings": 6
+            }
+          ]
+        },
+        {
+          "lesson_sub_cat_id": 16,
+          "lesson_cat_title": "Maddenin Ayırt Edici Özellikleri",
+          "lesson_correct": 2,
+          "lesson_wrong": 0,
+          "lesson_solved": 2,
+          "lesson_success": 100,
+          "lesson_earnings": 3,
+          "lessons": [
+            {
+              "lesson_id": 15,
+              "lesson_title": "Yaptığı deneyler sonucunda saf maddelerin erime, donma, kaynama noktalarını belirler.",
+              "lesson_learning_question": 63,
+              "lesson_correct": 2,
+              "lesson_wrong": 0,
+              "lesson_solved": 2,
+              "lesson_success": 100,
+              "lesson_earnings": 3
+            }
+          ]
+        },
+        {
+          "lesson_sub_cat_id": 17,
+          "lesson_cat_title": "Isı ve Sıcaklık",
+          "lesson_correct": 0,
+          "lesson_wrong": 10,
+          "lesson_solved": 10,
+          "lesson_success": 0,
+          "lesson_earnings": 0,
+          "lessons": [
+            {
+              "lesson_id": 16,
+              "lesson_title": "Isı ve sıcaklık arasındaki temel farkları açıklar.",
+              "lesson_learning_question": 36,
+              "lesson_correct": 0,
+              "lesson_wrong": 6,
+              "lesson_solved": 6,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            },
+            {
+              "lesson_id": 17,
+              "lesson_title": "Sıcaklığı farklı olan sıvıların karıştırılması sonucu ısı alışverişi olduğuna yönelik deneyler yaparak sonuçlarını yorumlar.",
+              "lesson_learning_question": 36,
+              "lesson_correct": 0,
+              "lesson_wrong": 4,
+              "lesson_solved": 4,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            }
+          ]
+        },
+        {
+          "lesson_sub_cat_id": 18,
+          "lesson_cat_title": "Isı Maddeleri Etkiler",
+          "lesson_correct": 2,
+          "lesson_wrong": 8,
+          "lesson_solved": 10,
+          "lesson_success": 20,
+          "lesson_earnings": 3,
+          "lessons": [
+            {
+              "lesson_id": 18,
+              "lesson_title": "Isı etkisiyle maddelerin genleşip büzüleceğine yönelik deneyler yaparak deneylerin sonuçlarını tartışır.",
+              "lesson_learning_question": 36,
+              "lesson_correct": 0,
+              "lesson_wrong": 4,
+              "lesson_solved": 4,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            },
+            {
+              "lesson_id": 19,
+              "lesson_title": "Günlük yaşamdan örnekleri genleşme ve büzülme olayları ile ilişkilendirir.",
+              "lesson_learning_question": 36,
+              "lesson_correct": 2,
+              "lesson_wrong": 4,
+              "lesson_solved": 6,
+              "lesson_success": 33,
+              "lesson_earnings": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_cat_id": 5,
+      "lesson_cat_title": "Işığın Yayılması",
+      "lesson_start_date": "13 Ağustos 2020",
+      "lesson_correct": 4,
+      "lesson_wrong": 10,
+      "lesson_solved": 14,
+      "lesson_success": 29,
+      "lesson_earnings": 2,
+      "lesson_sub": [
+        {
+          "lesson_sub_cat_id": 19,
+          "lesson_cat_title": "Işığın Yayılması",
+          "lesson_correct": 2,
+          "lesson_wrong": 2,
+          "lesson_solved": 4,
+          "lesson_success": 50,
+          "lesson_earnings": 5,
+          "lessons": [
+            {
+              "lesson_id": 20,
+              "lesson_title": "Bir kaynaktan çıkan ışığın her yönde ve doğrusal bir yol izlediğini gözlemleyerek çizimle gösterir.",
+              "lesson_learning_question": 42,
+              "lesson_correct": 2,
+              "lesson_wrong": 2,
+              "lesson_solved": 4,
+              "lesson_success": 50,
+              "lesson_earnings": 5
+            }
+          ]
+        },
+        {
+          "lesson_sub_cat_id": 20,
+          "lesson_cat_title": "Işığın Yansıması",
+          "lesson_correct": 0,
+          "lesson_wrong": 6,
+          "lesson_solved": 6,
+          "lesson_success": 0,
+          "lesson_earnings": 0,
+          "lessons": [
+            {
+              "lesson_id": 21,
+              "lesson_title": "Işığın düzgün ve pürüzlü yüzeylerdeki yansımalarını gözlemleyerek çizimle gösterir.",
+              "lesson_learning_question": 31,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            },
+            {
+              "lesson_id": 22,
+              "lesson_title": "Işığın yansımasında gelen ışın, yansıyan ışın ve yüzeyin normali arasındaki ilişkiyi açıklar.",
+              "lesson_learning_question": 31,
+              "lesson_correct": 0,
+              "lesson_wrong": 6,
+              "lesson_solved": 6,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            }
+          ]
+        },
+        {
+          "lesson_sub_cat_id": 21,
+          "lesson_cat_title": "Işığın Maddeyle Karşılaşması",
+          "lesson_correct": 2,
+          "lesson_wrong": 2,
+          "lesson_solved": 4,
+          "lesson_success": 50,
+          "lesson_earnings": 5,
+          "lessons": [
+            {
+              "lesson_id": 23,
+              "lesson_title": "Maddeleri, ışığı geçirme durumlarına göre sınıflandırır.",
+              "lesson_learning_question": 42,
+              "lesson_correct": 2,
+              "lesson_wrong": 2,
+              "lesson_solved": 4,
+              "lesson_success": 50,
+              "lesson_earnings": 5
+            }
+          ]
+        },
+        {
+          "lesson_sub_cat_id": 22,
+          "lesson_cat_title": "Tam Gölge",
+          "lesson_correct": 0,
+          "lesson_wrong": 0,
+          "lesson_solved": 0,
+          "lesson_success": 0,
+          "lesson_earnings": 0,
+          "lessons": [
+            {
+              "lesson_id": 24,
+              "lesson_title": "Tam gölgenin nasıl oluştuğunu gözlemleyerek basit ışın çizimleri ile gösterir.",
+              "lesson_learning_question": 42,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            },
+            {
+              "lesson_id": 25,
+              "lesson_title": "Tam gölgeyi etkileyen değişkenlerin neler olduğunu deneyerek keşfeder.",
+              "lesson_learning_question": 42,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_cat_id": 6,
+      "lesson_cat_title": "İnsan ve Çevre",
+      "lesson_start_date": "13 Ağustos 2020",
+      "lesson_correct": 0,
+      "lesson_wrong": 0,
+      "lesson_solved": 0,
+      "lesson_success": 0,
+      "lesson_earnings": 0,
+      "lesson_sub": [
+        {
+          "lesson_sub_cat_id": 23,
+          "lesson_cat_title": "Biyoçeşitlilik",
+          "lesson_correct": 0,
+          "lesson_wrong": 0,
+          "lesson_solved": 0,
+          "lesson_success": 0,
+          "lesson_earnings": 0,
+          "lessons": [
+            {
+              "lesson_id": 26,
+              "lesson_title": "Biyoçeşitliliğin doğal yaşam için önemini sorgular.",
+              "lesson_learning_question": 31,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            },
+            {
+              "lesson_id": 27,
+              "lesson_title": "Biyoçeşitliliği tehdit eden faktörleri, araştırma verilerine dayalı olarak tartışır.",
+              "lesson_learning_question": 31,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            }
+          ]
+        },
+        {
+          "lesson_sub_cat_id": 24,
+          "lesson_cat_title": "İnsan ve Çevre İlişkisi",
+          "lesson_correct": 0,
+          "lesson_wrong": 0,
+          "lesson_solved": 0,
+          "lesson_success": 0,
+          "lesson_earnings": 0,
+          "lessons": [
+            {
+              "lesson_id": 28,
+              "lesson_title": "İnsan ve çevre arasındaki etkileşimin önemini ifade eder.",
+              "lesson_learning_question": 26,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            },
+            {
+              "lesson_id": 29,
+              "lesson_title": "Yakın çevresindeki veya ülkemizdeki bir çevre sorununun çözümüne ilişkin öneriler sunar.",
+              "lesson_learning_question": 26,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            },
+            {
+              "lesson_id": 30,
+              "lesson_title": "İnsan faaliyetleri sonucunda gelecekte oluşabilecek çevre sorunlarına yönelik çıkarımda bulunur.",
+              "lesson_learning_question": 26,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            },
+            {
+              "lesson_id": 31,
+              "lesson_title": "İnsan-çevre etkileşiminde yarar ve zarar durumlarını örnekler üzerinde tartışır.",
+              "lesson_learning_question": 26,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            }
+          ]
+        },
+        {
+          "lesson_sub_cat_id": 25,
+          "lesson_cat_title": "Yıkıcı Doğa Olayları",
+          "lesson_correct": 0,
+          "lesson_wrong": 0,
+          "lesson_solved": 0,
+          "lesson_success": 0,
+          "lesson_earnings": 0,
+          "lessons": [
+            {
+              "lesson_id": 32,
+              "lesson_title": "Doğal süreçlerin neden olduğu yıkıcı doğa olaylarını açıklar.",
+              "lesson_learning_question": 20,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            },
+            {
+              "lesson_id": 33,
+              "lesson_title": "Yıkıcı doğa olaylarından korunma yollarını ifade eder.",
+              "lesson_learning_question": 20,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_cat_id": 7,
+      "lesson_cat_title": "Elektrik Devre Elemanları",
+      "lesson_start_date": "13 Ağustos 2020",
+      "lesson_correct": 0,
+      "lesson_wrong": 0,
+      "lesson_solved": 0,
+      "lesson_success": 0,
+      "lesson_earnings": 0,
+      "lesson_sub": [
+        {
+          "lesson_sub_cat_id": 26,
+          "lesson_cat_title": "Devre Elemanlarının Sembollerle Gösterimi ve Devre Şemaları",
+          "lesson_correct": 0,
+          "lesson_wrong": 0,
+          "lesson_solved": 0,
+          "lesson_success": 0,
+          "lesson_earnings": 0,
+          "lessons": [
+            {
+              "lesson_id": 34,
+              "lesson_title": "Bir elektrik devresindeki elemanları sembolleriyle gösterir.",
+              "lesson_learning_question": 42,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            },
+            {
+              "lesson_id": 35,
+              "lesson_title": "Çizdiği elektrik devresinin şemasını kurar.",
+              "lesson_learning_question": 42,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            }
+          ]
+        },
+        {
+          "lesson_sub_cat_id": 27,
+          "lesson_cat_title": "Basit Bir Elektrik Devresinde Lamba Parlaklığını Etkileyen Değişkenler",
+          "lesson_correct": 0,
+          "lesson_wrong": 0,
+          "lesson_solved": 0,
+          "lesson_success": 0,
+          "lesson_earnings": 0,
+          "lessons": [
+            {
+              "lesson_id": 36,
+              "lesson_title": "Bir elektrik devresindeki ampul parlaklığını etkileyen değişkenlerin neler olduğunu tahmin ederek tahminlerini test eder.",
+              "lesson_learning_question": 84,
+              "lesson_correct": 0,
+              "lesson_wrong": 0,
+              "lesson_solved": 0,
+              "lesson_success": 0,
+              "lesson_earnings": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
